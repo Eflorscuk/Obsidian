@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "ce703dcba61cd82b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b08d07e0c935ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39859ec6fbe6f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Literatura/AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?"
+            }
+          },
+          {
+            "id": "db8de73879803ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29ad63512e278bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f9a0a049d1d2e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "433038ef6b20c395",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fc589318eeeec1eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#area/literature",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e75f7f952396ac8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "de6868881ae74b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Literatura/DP - Sobre a capacidade de entender as coisas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP - Sobre a capacidade de entender as coisas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65c34827f9e06beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef44523fb626065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb969ef0ea77909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "04ebfecf1844aa3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "51d105f1d25227af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6744c07475ae355f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e295a82c94aa1704",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "db8de73879803ab0",
+  "lastOpenFiles": [
+    "3. Literatura/AIC - A mudança em nosso mundo.md",
+    "3. Literatura/AIC - Nômadismo Digital.md",
+    "3. Literatura/Sem título 7.md",
+    "Sem título 5.md",
+    "Sem título 4.md",
+    "Sem título 3.md",
+    "Sem título 2.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "3. Literatura/AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?.md",
+    "Modelos/Modelo - Zettelkasten.md",
+    "3. Literatura/AIC - Novo espaço da humanidade.md",
+    "3. Literatura/De Profundis.md",
+    "3. Literatura/DP - a bondade que vira um mal para quem o pratica.md",
+    "Templates/Método ZettelKasten.md",
+    "3. Literatura/DP - O que resta é a humildade para aqueles que perdem tudo.md",
+    "3. Literatura/DP - a inutilidade da sabedoria.md",
+    "3. Literatura/DP - Sofrimento como criador da beleza.md",
+    "3. Literatura/DP - A razão e o erro.md",
+    "3. Literatura/DP - Sobre a capacidade de entender as coisas.md",
+    "Templates/Aprender a aprender.md",
+    "3. Literatura/DP - Alma e o único senhor.md",
+    "3. Literatura/Ela Caminha em Beleza.md",
+    "3. Literatura/DP - Aspecto duas da alma.md",
+    "3. Literatura/DP - Vaidade alquímica.md",
+    "3. Literatura/DP - O diálogo.md",
+    "Sem título.base",
+    "Modelos",
+    "4. Permanentes",
+    "3. Literatura",
+    "2. Referências",
+    "1. Efêmeras",
+    "Referência",
+    "3. Literatura",
+    "1. Efêmeras",
+    "Templates"
+  ]
+}
