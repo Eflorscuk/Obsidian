@@ -22,4 +22,6 @@ Data:
 
 ## Conexões
 - [[De Profundis]]
-- Oscar Wilde
+- [[Oscar Wilde]]
+- [[Medo]]
+- [[Sofrimento]]

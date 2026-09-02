@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b08d07e0c935ca",
+        "id": "0ea6b9c5d9180b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "a39859ec6fbe6f01",
+            "id": "beea0a989acf1e8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Literatura/AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?.md",
+                "file": "3. Literatura/E/EHI - O Feio e o Outro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?"
-            }
-          },
-          {
-            "id": "db8de73879803ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "EHI - O Feio e o Outro"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -212,43 +199,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "db8de73879803ab0",
+  "active": "433038ef6b20c395",
   "lastOpenFiles": [
-    "3. Literatura/AIC - A mudança em nosso mundo.md",
-    "3. Literatura/AIC - Nômadismo Digital.md",
-    "3. Literatura/Sem título 7.md",
-    "Sem título 5.md",
-    "Sem título 4.md",
-    "Sem título 3.md",
+    "3. Literatura/E/EHI - Sombra e Trauma.md",
+    "3. Literatura/E/EHI - Sobre a Sombra 3.md",
+    "3. Literatura/E/EHI - Sobre a Sombra 2.md",
+    "3. Literatura/E/EHI - Sobre a Sombra.md",
+    "3. Literatura/E/EHI - Sobre a Ontologia.md",
+    "3. Literatura/E/EHI - Sobre a obra.md",
+    "3. Literatura/E/EHI - O Feio e a Infância.md",
+    "3. Literatura/E/EHI - A Sombra e o Outro.md",
+    "3. Literatura/E/EHI - A Sombra e o Feio.md",
+    "3. Literatura/E/EHI - O Feio e o Outro.md",
+    "3. Literatura/D/DP - amizade venenosa.md",
+    "3. Literatura/D/DP - Alma e o único senhor.md",
+    "3. Literatura/D/DP - A razão e o erro.md",
+    "3. Literatura/D/De Profundis.md",
+    "3. Literatura/D/DP - a inutilidade da sabedoria.md",
+    "3. Literatura/D/DP - a bondade que vira um mal para quem o pratica.md",
+    "3. Literatura/L/Lord Byron - Ela Caminha em Beleza.md",
+    "3. Literatura/L",
+    "3. Literatura/O",
+    "3. Literatura/E",
+    "3. Literatura/D",
+    "3. Literatura/A",
+    "3. Literatura/D/DP - falsas amizades.md",
+    "3. Literatura/D/DP - Vaidade alquímica.md",
     "Sem título 2.md",
     "Sem título 1.md",
-    "Sem título.md",
-    "3. Literatura/AIC - Será os novos meios de comunicação uma nova ferramenta para desigualdade?.md",
-    "Modelos/Modelo - Zettelkasten.md",
-    "3. Literatura/AIC - Novo espaço da humanidade.md",
-    "3. Literatura/De Profundis.md",
-    "3. Literatura/DP - a bondade que vira um mal para quem o pratica.md",
-    "Templates/Método ZettelKasten.md",
-    "3. Literatura/DP - O que resta é a humildade para aqueles que perdem tudo.md",
-    "3. Literatura/DP - a inutilidade da sabedoria.md",
-    "3. Literatura/DP - Sofrimento como criador da beleza.md",
-    "3. Literatura/DP - A razão e o erro.md",
-    "3. Literatura/DP - Sobre a capacidade de entender as coisas.md",
-    "Templates/Aprender a aprender.md",
-    "3. Literatura/DP - Alma e o único senhor.md",
-    "3. Literatura/Ela Caminha em Beleza.md",
-    "3. Literatura/DP - Aspecto duas da alma.md",
-    "3. Literatura/DP - Vaidade alquímica.md",
-    "3. Literatura/DP - O diálogo.md",
+    "Sem título 5.md",
+    "3. Literatura/A/AIC - A mudança em nosso mundo.md",
+    "3. Literatura/A/AIC - Nômadismo Digital.md",
+    "Sem título 4.md",
+    "Sem título 3.md",
     "Sem título.base",
     "Modelos",
     "4. Permanentes",
     "3. Literatura",
-    "2. Referências",
-    "1. Efêmeras",
-    "Referência",
-    "3. Literatura",
-    "1. Efêmeras",
-    "Templates"
+    "2. Referências"
   ]
 }

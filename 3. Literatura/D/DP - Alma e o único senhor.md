@@ -25,3 +25,5 @@ Data: 18 - 04 - 2026
 - [[Alma]]
 - [[Amor]]
 - [[Ódio]]
+- [[Medo]]
+- [[Sofrimento]]

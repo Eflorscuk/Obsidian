@@ -22,4 +22,6 @@ Data: 18 - 04 - 2026
 ## Conexões
 - [[Erro]]
 - [[Razão]]
-- De Profundis
+- [[De Profundis]]
+- [[Medo]]
+- [[Sofrimento]]

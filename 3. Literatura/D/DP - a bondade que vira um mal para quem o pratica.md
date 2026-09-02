@@ -25,3 +25,5 @@ Data: 18 - 04 - 2026
 ## Conexões
 - [[Bondade]]
 - [[autopreservação]]
+- [[Medo]]
+- [[Sofrimento]]
