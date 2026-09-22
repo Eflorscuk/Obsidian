@@ -28,3 +28,5 @@ Aqui vem conexões com outras notas
 - [[Ufo]]
 - [[Augusto Busck]]
 - [[O Estranhamento de Humanidades Inumanas]]
+- - [[Alienígenas]]
+- [[Ufologia]]

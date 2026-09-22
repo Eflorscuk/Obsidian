@@ -32,3 +32,5 @@ O conceito de sombra permeará toda a obra
 - [[DP - O mais fraco domina o mais forte]]
 - [[Augusto Busck]]
 - [[O Estranhamento de Humanidades Inumanas]]
+- - [[Alienígenas]]
+- [[Ufologia]]
