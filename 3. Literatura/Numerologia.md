@@ -12,3 +12,7 @@ Neste vault: extrato de Goodwin vol. 1 (rótulos Life Path / Expression / Soul U
 - [[Goodwin Vol1 - Extrato]]
 - [[Numerology - The Complete Guide Vol. 1]]
 - [[Matthew Oliver Goodwin]]
+
+- [[Visconti - Extrato]]
+- [[Numerology - Sofia Visconti]]
+- [[Sofia Visconti]]
