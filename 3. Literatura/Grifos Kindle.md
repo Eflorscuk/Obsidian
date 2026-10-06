@@ -9,6 +9,8 @@ Data: 2026-10-06
 
 Grifos e notas exportados do Kindle (read.amazon.com/notebook): 57 livros, 5775 grifos, 453 notas.
 
+Todas as minhas notas reunidas: [[Minhas notas do Kindle]]
+
 ## Livros
 
 - [[12 Regras para a Vida - Grifos Kindle|12 Regras para a Vida]] — Jordan B. Peterson, Alberto Gassul, and Wendy Campos · 795 grifos, 0 notas
