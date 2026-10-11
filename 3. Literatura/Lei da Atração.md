@@ -8,3 +8,4 @@ Tema da coleção de posts salvos do Instagram "Lei da atração": manifestaçã
 
 ## Notas
 - [[Lei da Atração - Resumo Instagram]]
+- [[Lei da Atração - Ofertas Comerciais]]
