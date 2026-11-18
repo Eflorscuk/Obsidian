@@ -7,9 +7,9 @@ tema: []
 tags:
   - kindle
   - grifos
-Data: 2026-10-06
-grifos: 144
-notas: 52
+Data: 2026-11-18
+grifos: 168
+notas: 54
 ---
 
 # Box Grandes Obras de Dostoiévski
@@ -550,6 +550,82 @@ notas: 52
 
 > Estavam sentados um ao lado do outro, tristes e abatidos como dois náufragos lançados pela tempestade sobre uma plaga deserta.
 — Posição 10005
+
+> — Oh, estes cigarros! — começou por fim Porfírio. — Sinto que serão a causa da minha morte e não posso renunciar a eles. Estou sempre a tossir, tenho um princípio de irritação na laringe e sou asmático. Consultei há poucos dias Baktine, que examina todos os doentes pelo menos meia hora. Depois de me ter auscultado disse-me, entre outras coisas: «O tabaco faz-lhe mal e o senhor tem os pulmões dilatados». Pois sim, mas como hei de eu abandonar o tabaco? Porque hei de substituí-lo? Eu bebo. Aí é que está o mal. Tudo é relativo, amigo Rodia!
+— Posição 10629
+
+> Cem coelhos não valem um cavalo, cem conjeturas não valem uma prova, diz o provérbio inglês.
+— Posição 10681
+
+> Estamos em presença de um caso fantástico e sombrio. Este crime tem a marca do nosso tempo, o cunho de uma época que faz consistir a vida na procura do conforto. O culpado é um homem de teorias, uma vítima dos livros; desenvolveu uma grande audácia, mas essa audácia é a de um homem que se precipita do cume de uma montanha ou do alto de uma torre.
+— Posição 10754
+
+> — Como, quem foi? — replicou ele, como se lhe custasse a acreditar no que ouvira. — Foi o senhor, Rodia, foi o senhor quem matou! O senhor... — acrescentou ele em voz baixa e num tom de convencido. Raskólnikov
+— Posição 10770
+
+> — A vida. O senhor é profeta para saber o que ela lhe reserva? Procure e achará. Quem sabe se tudo isto não é uma prova a que Deus o sujeita? Afinal o senhor não será condenado por toda a vida... —
+— Posição 10850
+
+> Sei que o senhor é um cético, mas entregue-se sem raciocinar à corrente da vida. Ela o levará a alguma parte.
+— Posição 10866
+
+> — Quem sou eu? Sou um homem acabado, nada mais. Um homem sensível e compassivo a quem a experiência ensinou talvez alguma coisa, porém um homem que liquidou, que por completo acabou. Quanto ao senhor, o caso é outro: o senhor está no começo da existência e esta aventura (quem sabe?) não deixará talvez vestígio algum na sua vida. Porque há de recear tanto a mudança que vai operar-se na sua situação? É do bem-estar que um coração como o seu pode ter pena? Aflige-se com a ideia de estar por muito tempo enterrado na obscuridade? Do senhor depende porém que essa obscuridade não seja eterna. Faça-se um sol e toda a gente o verá. Porque está outra vez a sorrir? O senhor está dizendo lá consigo: isto é palavreado de juiz de instrução... É muito possível, he, he, he! Não lhe peço que acredite em mim, Rodia. Sou primeiro que tudo juiz, concordo; apenas acrescento isto: mais do que as minhas palavras, os factos lhe demonstrarão se sou um intrujão ou um homem honrado.
+— Posição 10878
+
+> — É um sestro que toda a gente aqui tem. Nem quando de facto acreditam num milagre ousam confessá-lo! O senhor mesmo diz que é «talvez» apenas um simples acaso. Não pode imaginar, Rodia, como aqui há pouca gente com a coragem da sua opinião. O senhor tem uma opinião pessoal e não receia afirmá-la. É mesmo por isso que atraiu a minha curiosidade.
+— Posição 11014
+
+> Sim, com as lágrimas nos olhos! Eis até onde chega, em certas moças, a mania da propaganda! Já se vê, imputava todos
+— Posição 11138
+
+> — É sua opinião que ela não me pode ver? — replicou Svidrigailov, piscando o olho e sorrindo com ar de zombaria. — O senhor tem razão, ela não me ama; porém nunca afirme nada a respeito do que se passa entre marido e mulher ou entre um homem e a sua amante. Há sempre um cantinho que fica escondido a todos e só é conhecido dos interessados. Ousaria o senhor afirmar que eu causava repugnância à Dounia?
+— Posição 11172
+
+> — Minto? Pois bem, minto. Menti... As mulheres não gostam que lhe lembrem essas pequeninas coisas — replicou ele, rindo. — Sei que vais disparar, belo monstro. Pois bem, vamos a isso!
+— Posição 11522
+
+> A soma que ofereço à menina é a ele que a dou por seu intermédio. Demais, a menina prometeu pagar à Amália Ivanovna o que lhe deviam... Para que toma sobre si tais encargos? A devedora a essa alemã não era a menina, mas sim a Catarina Ivanovna. A Sofia devia ter mandado a alemã para o diabo. É preciso ter mais tento na vida... Bem, se amanhã ou depois de amanhã alguém a interrogar a meu respeito não fale da minha visita e não diga a ninguém que lhe dei dinheiro.
+— Posição 11632
+
+> — Quando se parte para a América, não se faz caso da chuva. Adeus, querida Sofia. Viva e viva por muito tempo. A menina é útil aos outros. Apresente também os meus cumprimentos ao senhor Razoumikhine. Diga-lhe que Svidrigailov o cumprimenta. Não se esqueça.
+— Posição 11645
+
+> — Não me lembro bem. Queria tomar uma resolução... A única coisa que me lembra é que muitas vezes me aproximei do Neva. A minha intenção era acabar desse modo... mas... não pude resolver-me... — concluiu em voz baixa, procurando ler no rosto da irmã a impressão produzida pelas suas palavras.
+— Posição 12021
+
+**Nota:** Diferentemente de Svidrigáilov
+
+> culpa. Vais, não é verdade? — O mais depressa possível. Para evitar esta desonra, queria afogar-me; todavia, no momento em que ia atirar-me à água disse comigo que um homem forte não deve ter medo da vergonha. Será orgulho, Dounia? — É, Rodia! Uma espécie de clarão iluminou os seus olhos embaciados. Parecia feliz com a ideia de ter conservado o seu orgulho.
+— Posição 12035
+
+> — E então? Toda a gente o derrama — prosseguiu ele com veemência crescente. — Em todos os tempos correram ondas de sangue sobre a terra: os que o derramam como champanhe sobem em seguida ao Capitólio e são proclamados benfeitores da humanidade. Examina as coisas um pouco mais de perto antes de as julgares. Também queria fazer bem aos homens! Centenas e milhares de boas ações teriam compensado por completo essa única tolice, e quando digo tolice devia dizer antes falta de habilidade, porque a ideia não era tão má como agora pode parecer: depois do insucesso, os projetos mais bem combinados parecem idiotices. Queria apenas conseguir uma situação independente, garantir os meus primeiros passos na vida, angariar recursos; depois levantaria voo... Fui malsucedido e é por isso que sou um miserável. Se tivesse sido bem-sucedido, ter-me-iam coroado, ao passo que assim lançar-me-ão às feras. — Não se trata disso! Que dizes, meu irmão? — É verdade que não procedi segundo as regras da estética! Não há maneira de compreender porque é mais glorioso bombardear uma cidade do que matar alguém a golpes de machado! A preocupação estética é o primeiro sinal de fraqueza... Nunca o senti melhor do que nesta altura e cada vez compreendo menos qual é o meu crime. Nunca me senti mais forte, mais convencido do que estou agora. O seu rosto
+— Posição 12061
+
+> — Compreendo que toda a gente tenha vontade de se instruir. Mas não poderá haver instrução sem se cair em todos estes excessos? Para que é preciso ser insolente? Para que é preciso insultar homens respeitáveis, como esse mariola do Zametov? Porque me injuriou ele, pergunto eu? Outra epidemia que faz terríveis progressos é a dos suicídios. Comem tudo quanto têm e depois matam-se. Velhos, rapazotes, pequenitas, passam-se desta para melhor! Ainda há pouco soubemos que um sujeito, chegado aqui recentemente, acabava de pôr termo à vida... Nil Pavlitch, eh! Nil Pavlitch! Como se chamava o sujeito que deu um tiro nos miolos em Petersbougskaia?
+— Posição 12321
+
+> Uma inquietação sem objetivo e sem fim, no presente, um sacrifício contínuo e estéril no futuro, eis o que lhe restava sobre a terra. Vã consolação para pensar que dali a oito anos só teria trinta e dois e que nessa idade podia ainda recomeçar a vida! Viver para quê? Viver para viver? Mas sempre estivera pronto a jogar a existência por uma ideia, por uma esperança, até por uma fantasia. Fizera sempre pouco caso da vida pura e simples; quisera sempre mais alguma coisa. Talvez só a força dos seus desejos lhe fizera crer outrora que era desses homens a quem é permitido mais do que aos outros.
+— Posição 12597
+
+> Pelo menos poderia repreender-se, como noutros tempos, pelas ações estúpidas e odiosas que o tinham conduzido à prisão. Agora, no isolamento do cativeiro, refletia de novo sobre todo o seu procedimento passado e já o não achava tão odioso nem tão estúpido como noutros tempos.
+— Posição 12608
+
+> «Em que era a minha ideia», pensava ele, «mais estúpida do que as outras ideias e teorias que se debatem no mundo desde que o mundo existe? Basta encarar o caso sob um ponto de vista largo, independente, despido de preconceitos e então talvez essa ideia já não pareça tão... singular. Oh, vós os que vos dizeis livres pensadores, filósofos de cinco kopecks, porque parais a meio do caminho? E porque classificam de odioso o meu procedimento?», perguntava a si próprio. «Porque é um crime? O que significa a palavra crime? A minha consciência está tranquila. Sem dúvida cometi um ato ilegal, violei a letra da lei, derramei sangue; pois bem, enforquem-me... e acabou-se! Decerto, nesse caso, muitos dos próprios benfeitores da humanidade, daqueles que não tiveram o poder por herança, mas que se apoderaram dele à viva força, deveriam ter sido supliciados. Esses foram até ao fim e é isso o que os justifica; ao passo que eu não soube prosseguir. Por conseguinte, não tinha o direito de começar.»
+— Posição 12612
+
+> Interrogava-se com mágoa a esse respeito e não podia compreender como no próprio momento em que, junto do Neva, pensava no suicídio, pressentia talvez em si próprio e nas suas convicções um erro profundo. Não compreendia que esse pressentimento pudesse conter em gérmen uma nova conceção da vida, que pudesse ser o prelúdio de uma revolução na sua existência, o primeiro sinal da sua ressurreição. Admitia somente que tinha cedido por covardia e falta de caráter à força bruta do instinto.
+— Posição 12628
+
+> Além dos criminosos de direito comum, havia na fortaleza polacos condenados por crimes políticos. Estes consideravam os outros como simples brotos e desprezavam-nos.
+— Posição 12648
+
+> À cabeceira da cama estava uma Bíblia. Pegou nela sem querer. Aquele livro pertencia a Sofia, fora nele que ela lhe lera outrora a passagem da ressurreição de Lázaro.
+— Posição 12766
+
+**Nota:** Rodia ressucitou. Eu resscutwi?
+
+> Aqui começa porém uma segunda história, a da lenta renovação de um homem, da sua regeneração progressiva, da sua passagem gradual de um mundo para o outro. Podia ser a matéria de uma nova narração... A que quisemos oferecer ao leitor acabou aqui.
+— Posição 12781
 
 ## Conexões
 - [[Fiódor Dostoiévski]]

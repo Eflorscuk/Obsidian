@@ -7,9 +7,7 @@ Data: 2026-10-06
 
 # Grifos Kindle
 
-Grifos e notas exportados do Kindle (read.amazon.com/notebook): 57 livros, 5775 grifos, 453 notas.
-
-Todas as minhas notas reunidas: [[Minhas notas do Kindle]]
+Grifos e notas exportados do Kindle (read.amazon.com/notebook): 57 livros, 5799 grifos, 455 notas.
 
 ## Livros
 
@@ -24,7 +22,7 @@ Todas as minhas notas reunidas: [[Minhas notas do Kindle]]
 - [[Balada do Cárcere de Reading - Grifos Kindle|Balada do Cárcere de Reading]] — Oscar Wilde and Januário Leite · 3 grifos, 0 notas
 - [[O banquete - Grifos Kindle|O banquete]] — Platão and Donaldo Schüler · 31 grifos, 4 notas
 - [[A Bíblia Sagrada - Grifos Kindle|A Bíblia Sagrada]] — Zeiset · 7 grifos, 0 notas
-- [[Box Grandes Obras de Dostoiévski - Grifos Kindle|Box Grandes Obras de Dostoiévski]] — Fiódor Dostoiévski · 144 grifos, 52 notas
+- [[Box Grandes Obras de Dostoiévski - Grifos Kindle|Box Grandes Obras de Dostoiévski]] — Fiódor Dostoiévski · 168 grifos, 54 notas
 - [[Box Grandes Obras de Platão - Grifos Kindle|Box Grandes Obras de Platão]] — Platão · 11 grifos, 7 notas
 - [[Box História - Grifos Kindle|Box História]] — Heródoto · 20 grifos, 2 notas
 - [[Box Trilogia O Senhor dos Anéis - Grifos Kindle|Box Trilogia O Senhor dos Anéis]] — J.R.R. Tolkien and Ronald Kyrmse · 209 grifos, 100 notas

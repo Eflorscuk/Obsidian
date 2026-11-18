@@ -5,7 +5,7 @@ tags:
   - kindle
   - notas
 Data: 2026-10-06
-notas: 453
+notas: 455
 ---
 
 # Minhas notas do Kindle
@@ -846,7 +846,7 @@ notas: 453
 
 ## Box Grandes Obras de Dostoiévski
 
-[[Box Grandes Obras de Dostoiévski - Grifos Kindle]] · [[Fiódor Dostoiévski]] · 52 notas
+[[Box Grandes Obras de Dostoiévski - Grifos Kindle]] · [[Fiódor Dostoiévski]] · 54 notas
 
 **Nota:** Mesmo sentimento de que se tem em relação a duvoda de ter passado ou não na experiência
 > Porém havia algum tempo que ele se achava num estado de excitação nervosa, vizinho da hipocondria.
@@ -1054,6 +1054,14 @@ notas: 453
 **Nota:** Sofia e a expiação
 > — É preciso que aceites a expiação e te regeneres por meio dela.
 — Posição 9966
+
+**Nota:** Diferentemente de Svidrigáilov
+> — Não me lembro bem. Queria tomar uma resolução... A única coisa que me lembra é que muitas vezes me aproximei do Neva. A minha intenção era acabar desse modo... mas... não pude resolver-me... — concluiu em voz baixa, procurando ler no rosto da irmã a impressão produzida pelas suas palavras.
+— Posição 12021
+
+**Nota:** Rodia ressucitou. Eu resscutwi?
+> À cabeceira da cama estava uma Bíblia. Pegou nela sem querer. Aquele livro pertencia a Sofia, fora nele que ela lhe lera outrora a passagem da ressurreição de Lázaro.
+— Posição 12766
 
 ## O Crime do Padre Amaro
 
